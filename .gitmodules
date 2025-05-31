@@ -1,0 +1,12 @@
+[submodule "admin-portal"]
+	path = admin-portal
+	url = https://github.com/mostafa-fallaha-org/admin-portal.git
+[submodule "schedules-portal"]
+	path = schedules-portal
+	url = https://github.com/mostafa-fallaha-org/schedules-portal.git
+[submodule "reco-and-attendance-function"]
+	path = reco-and-attendance-function
+	url = https://github.com/mostafa-fallaha-org/reco-and-attendance-function.git
+[submodule "enroll-students-function"]
+	path = enroll-students-function
+	url = https://github.com/mostafa-fallaha-org/enroll-students-function.git
