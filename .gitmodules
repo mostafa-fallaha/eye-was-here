@@ -10,3 +10,6 @@
 [submodule "enroll-students-function"]
 	path = enroll-students-function
 	url = https://github.com/mostafa-fallaha-org/enroll-students-function.git
+[submodule "ESP32-CAM-code"]
+	path = ESP32-CAM-code
+	url = https://github.com/RahafKobaissi/ESP32-CAM-code.git
