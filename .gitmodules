@@ -1,15 +1,15 @@
 [submodule "admin-portal"]
 	path = admin-portal
-	url = https://github.com/mostafa-fallaha-org/admin-portal.git
+	url = https://github.com/mostafa-fallaha/admin-portal.git
 [submodule "schedules-portal"]
 	path = schedules-portal
-	url = https://github.com/mostafa-fallaha-org/schedules-portal.git
+	url = https://github.com/mostafa-fallaha/schedules-portal.git
 [submodule "reco-and-attendance-function"]
 	path = reco-and-attendance-function
-	url = https://github.com/mostafa-fallaha-org/reco-and-attendance-function.git
+	url = https://github.com/mostafa-fallaha/reco-and-attendance-function.git
 [submodule "enroll-students-function"]
 	path = enroll-students-function
-	url = https://github.com/mostafa-fallaha-org/enroll-students-function.git
+	url = https://github.com/mostafa-fallaha/enroll-students-function.git
 [submodule "ESP32-CAM-code"]
 	path = ESP32-CAM-code
 	url = https://github.com/RahafKobaissi/ESP32-CAM-code.git
